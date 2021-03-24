@@ -5,3 +5,4 @@ Hozzáadok még egy sort
 Írom tovább
 Ezt már Githubon írtam
 VSből írt
+Git Desktop
